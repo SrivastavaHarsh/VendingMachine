@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/Vending_Machine/src/VM.vhd" 
+MESSAGE "Compile Entity "FSM"" 
+MESSAGE "Compile Architecture "behavior" of Entity "FSM"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]" 

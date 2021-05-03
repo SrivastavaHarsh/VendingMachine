@@ -1,0 +1,35 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=Vending_Machine
+
+[Library]
+Vending_Machine=.\Vending_Machine\Vending_Machine.lib
+
+[SpecTracer]
+WindowVisible=0
+
+[$LibMap$]
+Vending_Machine=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/VM.vhd=-1
+/state_transition.asdb=-1
+/state_transition.awc=-1
+
+[Files.Data]
+.\src\VM.vhd=VHDL Source Code
+
+.\src\state_transition.asdb=Accelerated Waveform File
+.\src\state_transition.awc=Accelerated Waveform Configuration

@@ -1,0 +1,3 @@
+2
+~E 1 "../src/VM.vhd" 4 FSM
+~A 1 "../src/VM.vhd" 14 behavior

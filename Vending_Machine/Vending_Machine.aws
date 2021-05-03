@@ -1,0 +1,8 @@
+[Version]
+Version=11.1
+[Designs]
+Vending_Machine=Vending_Machine.adf
+[Settings]
+Active=Vending_Machine
+[Expand]
+vending_machine=1

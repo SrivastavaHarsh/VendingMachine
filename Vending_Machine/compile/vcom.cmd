@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/Vending_Machine/compile/Vending_Machine.erf -d c:/My_Designs/Vending_Machine/compile -s c:/My_Designs/Vending_Machine/library.cfg -j c:/My_Designs/Vending_Machine/projlib.cfg -work Vending_Machine -O3 -e 100 -work Vending_Machine -2002 c:/My_Designs/Vending_Machine/src/VM.vhd 

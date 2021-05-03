@@ -1,0 +1,24 @@
+timestamp=1620036245172
+
+[~A]
+ModifyID=2
+Version=74
+
+[~MFT]
+0=2|0Vending_Machine.mgf|4650|0
+1=2|1Vending_Machine.mgf|1653|1653
+3=2|3Vending_Machine.mgf|0|0
+
+[fsm]
+A/behavior=21|../src/VM.vhd|14|1*1653
+BinI32/behavior=3*0
+I=0*612
+I/behavior=0*4650
+M=11|0|ve4|1620035775613|../src/VM.vhd|0*218*0x9c85a28ac76abd06efebe29e0da5262047d3b8af|0*542*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavior=21|0|ve4|1620036245117|../src/VM.vhd|0*808*0xf1f229f3a0c7fe0a703d24d9cbc90fa7685d9f0a|0*4568*0x20116f55b147878295aeff36dce7fc50
+R=../src/VM.vhd|4
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|d274df6d00ba93fbeb16b3acd8e09e753944b30a1db4d3d35da4f107fe871f96
+Version/behavior=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|f9bccf16e2dce5a640f0ad5e8eaa0283e08d679eaf1bc9de9439630905b37e5f5ec8f4ac8405012756e5e076dbfb2ff4
+
+[~U]
+fsm=FSM 11|0*0|

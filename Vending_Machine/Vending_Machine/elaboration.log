@@ -1,0 +1,33 @@
+Active-HDL 11.1.262.7351 2021-05-03 15:45:26
+
+Elaboration top modules:
+Architecture                  behavior(FSM)
+
+
+-------------------------------------------------------------------------------------------------
+Entity   | Architecture | Library         | Info | Compiler Version        | Compilation Options
+-------------------------------------------------------------------------------------------------
+FSM      | behavior     | Vending_Machine |      | 11.1.262.7351 (Windows) | -O3
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+VHDL Package            | Library         | Info | Compiler Version        | Compilation Options
+-------------------------------------------------------------------------------------------------
+standard                | std             |      |                         | <unavailable>
+TEXTIO                  | std             |      |                         | <unavailable>
+std_logic_1164          | ieee            |      |                         | <unavailable>
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------------
+ieee                    | Standard IEEE packages library
+std                     | Standard VHDL library
+Vending_Machine         | None
+-------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+FSM FSM behavior
+
+
+The performance of simulation is reduced. Version Student Edition
